@@ -1,0 +1,15 @@
+./data/babygirl.bmp
+./data/bikerace.bmp
+./data/cows.bmp
+./data/elephant.bmp
+./data/iceroad.bmp
+./data/lakebuilding.bmp
+./data/lunch.bmp
+./data/market.bmp
+./data/palace2.bmp
+./data/railwaystation.bmp
+./data/sanfrancisco.bmp
+./data/scrimmage.bmp
+./data/seals.bmp
+./data/sunrise.bmp
+./data/wheel.bmp
